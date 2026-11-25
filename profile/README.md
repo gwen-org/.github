@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/status-beta-171717?style=for-the-badge)
 ![Escopo](https://img.shields.io/badge/escopo-pessoal-171717?style=for-the-badge)
 ![Plataforma](https://img.shields.io/badge/plataforma-windows-171717?style=for-the-badge)
-![Versão](https://img.shields.io/badge/versão-0.9.2-171717?style=for-the-badge)
+![Versão](https://img.shields.io/badge/versão-0.9.3-171717?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/licença-proprietária-171717?style=for-the-badge)
 ![Recife](https://img.shields.io/badge/Recife%20%C2%B7%20Brazil-171717?style=for-the-badge)
 
